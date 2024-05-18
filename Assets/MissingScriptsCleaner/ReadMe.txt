@@ -1,0 +1,1 @@
+Open Tools/MissingScriptCleaner and use
