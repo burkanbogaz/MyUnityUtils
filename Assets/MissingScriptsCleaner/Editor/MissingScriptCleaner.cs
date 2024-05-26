@@ -19,7 +19,7 @@ namespace Editor
         private Texture2D _hoverClearTexture;
         private Texture2D _activeClearTexture;
 
-        [MenuItem("Tools/Missing Script Cleaner")]
+        [MenuItem("Tools/MyUnityUtils/Missing Script Cleaner")]
         public static void ShowWindow()
         {
             var window = GetWindow<MissingScriptCleaner>(false, "Missing Script Cleaner");
