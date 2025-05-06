@@ -16,7 +16,7 @@ namespace Editor
         private bool _searchingInProgress = false;
         private float _searchProgress = 0f;
 
-        [MenuItem("Tools/MyUnityUtils/Missing Script Cleaner")]
+        [MenuItem("MyUnityUtils/Missing Script Cleaner")]
         public static void ShowWindow()
         {
             var window = GetWindow<MissingScriptCleaner>(false, "Missing Script Cleaner");

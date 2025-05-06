@@ -43,7 +43,7 @@ public class ColliderGizmoSettings : ScriptableObject
                     // If we can't find the folder path, default to CustomColliderGizmos folder
                     if (string.IsNullOrEmpty(folderPath))
                     {
-                        folderPath = "Assets/Scripts/DivisionPack/Editor/CustomColliderGizmos";
+                        folderPath = "Assets/CustomColliderGizmos";
                     }
                     
                     // Make sure directory exists
@@ -98,7 +98,7 @@ public class ColliderGizmoSettingsEditor : Editor
 // Menü öğesi ekle
 public class ColliderGizmoSettingsMenu
 {
-    [MenuItem("DivisionPack/Utility/CustomColliderGizmosSetting")]
+    [MenuItem("MyUnityUtils/CustomColliderGizmosSetting")]
     private static void ShowSettings()
     {
         Selection.activeObject = ColliderGizmoSettings.Instance;

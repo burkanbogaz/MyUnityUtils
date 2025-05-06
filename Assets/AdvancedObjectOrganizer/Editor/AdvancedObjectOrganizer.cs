@@ -15,7 +15,7 @@ namespace Editor
         private Texture2D _blueTexture;
         private Texture2D _greenTexture;
 
-        [MenuItem("Tools/MyUnityUtils/Advanced Object Organizer")]
+        [MenuItem("MyUnityUtils/Advanced Object Organizer")]
         public static void ShowWindow()
         {
             GetWindow<AdvancedObjectOrganizer>("Advanced Object Organizer").minSize = new Vector2(400, 300);
