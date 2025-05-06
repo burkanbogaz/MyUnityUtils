@@ -15,3 +15,7 @@ This tool provides a powerful yet simple way to sort and name your GameObjects, 
 ### 🌟 Custom Collider Color Gizmos
 This tool provides a simple yet powerful way to visually distinguish between Triggers and Colliders, making your scene easier to read and work with.
 #### ![Custom Collider Color Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVtd2U1cnk4ajczandlenQ0bW5kZHVzMnN5dTgxbTh2MmV2d2hwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pnXUzCctUYKwgCHwfa/giphy.gif)
+
+### 🌟 SceneUISelectionMenu
+This tool provides a simple yet powerful way to select UI Components from scene view. Right click to ui components and select them easilly.
+#### ![SceneUISelectionMenu](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29vOGE2bGN2dHM5OTcwbmw4NWZ5dXg2MGkyN21zZm9zNnA3bWxwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsigKLfkMs6KQigt4F/giphy.gif)
